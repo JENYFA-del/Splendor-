@@ -1,2 +1,3 @@
 # Splendor-
 My Splendor 
+splendid 
